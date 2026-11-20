@@ -76,7 +76,7 @@ To be confirmed.
 
 ## Contact
 
-Arron Watson, School of Biosciences, University of Birmingham – axw213@student.bham.ac.uk
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ## Version history
 
