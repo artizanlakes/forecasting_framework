@@ -1,6 +1,6 @@
 # Biodiversity Forecasting Decision Framework
 
-An interactive decision-support tool for choosing biodiversity forecasting methods, based on the four-tier framework in Watson et al. (2026).
+An interactive decision-support tool for choosing biodiversity forecasting methods, based on the four-tier framework in XXXXXXXXX. (2026).
 
 **Live app:** [edna_forecast_app.py](https://mldecisionframework.streamlit.app/) <!-- replace with your Streamlit URL -->
 
